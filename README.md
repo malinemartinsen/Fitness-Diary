@@ -4,7 +4,7 @@ Compose diary posts through a "secret" compose site, and keep a track of and sha
 
 ## Language
 
-This application is written with the framework Node.js and Ejs (JavaScript), with the use of HMTL and CSS to display the website in a more esthetic way. With use of Mongoose (MongoDB Atlas) as databaseserver.
+This application is written with the framework Node.js and EJS, with the use of HMTL and CSS to display the website in a more esthetic way. With use of Mongoose (MongoDB Atlas) as databaseserver.
 
 ## Meaning behind the website
 
